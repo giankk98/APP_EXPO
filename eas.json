@@ -12,7 +12,4 @@
     },
     "production": {}
   },
-  "update": {
-    "server": "https://u.expo.dev"
-  }
 }
